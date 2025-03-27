@@ -30,23 +30,19 @@ And there you have it, a full setup of Employee Task Management System in PHP My
 
 ### Admin Login Info Details
 
-userName: admin <br />
-passWord: Watch Youtube Video () <br/>
+userName: xxyy
+passWord: contact me kihara.dev@gmail.com
 
 ### Employee Login Details
 
-Username: mhrony <br/>
-passWord: Watch Youtube Video () <br/>
+Username: xxy
+passWord: contact me kihara.dev@gmail.com
 
 
-Subcribe my You tube Channel **** <a href="https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank">Subscribe</a> ****
 
 
-Author : MH RONY <br/>
-Website Link: https://developerrony.com <br />
-GitHub Link: https://github.com/dev-mhrony <br />
-Youtube Video Link:https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw  <br />
-Youtube Channel Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+
+
  
 
  ## Preview
